@@ -66,3 +66,7 @@ Scale With Your Organization
 Odoo supports multiple currencies, multiple users with different access rights,
 multiple companies with real time consolidation and unlimited analytic plans.
 
+
+
+----------------------------
+Making a change to post to Github
